@@ -1,6 +1,7 @@
 [![gzip size](https://img.badgesize.io/https:/unpkg.com/webamp/built/webamp.lazy-bundle.min.js?label=gzip&compression=gzip)](https://bundlephobia.com/result?p=webamp)
 [![Tests](https://github.com/captbaritone/webamp/workflows/CI/badge.svg)](https://github.com/captbaritone/webamp/actions?query=branch%3Amaster+workflow%3ACI)
 [![Discord](https://img.shields.io/discord/434058775012311061.svg)](https://webamp.org/chat)
+[![Winamp](https://www.winamp.com/)]
 
 # Webamp
 
@@ -87,3 +88,5 @@ this code, please let me know. I'd love to see it.
 [3]: https://news.ycombinator.com/item?id=16333550
 [4]: https://news.ycombinator.com/item?id=17583997
 [winamp community update pack]: https://getwacup.com/
+
+
