@@ -63,6 +63,7 @@ An incomplete list of websites using Webamp:
 - [www.dkdomino.zone](https://www.dkdomino.zone/album.html) - Someone's personal music player
 - [loa2k.neocities.org](https://loa2k.neocities.org/) - music player from someone
 - [awesome-open-company](https://github.com/opencompany/awesome-open-company) - start to open a website for like webamp
+- [os](https://github.com/joshuaword2alt/NanoShellOS) - any of them
 
 ## Thanks
 
