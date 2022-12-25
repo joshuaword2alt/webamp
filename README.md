@@ -61,6 +61,7 @@ An incomplete list of websites using Webamp:
 - [winxp.now.sh](https://winxp.now.sh/) - A Windows XP clone in JavaScript with React ([GitHub](https://github.com/ShizukuIchi))
 - [Try Andy's Desk](https://desk.glitchy.website/) - A quirky Windows themed desktop experience.
 - [www.dkdomino.zone](https://www.dkdomino.zone/album.html) - Someone's personal music player
+- [loa2k.neocities.org](https://loa2k.neocities.org/) - music player from someone
 
 ## Thanks
 
