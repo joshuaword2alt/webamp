@@ -62,6 +62,7 @@ An incomplete list of websites using Webamp:
 - [Try Andy's Desk](https://desk.glitchy.website/) - A quirky Windows themed desktop experience.
 - [www.dkdomino.zone](https://www.dkdomino.zone/album.html) - Someone's personal music player
 - [loa2k.neocities.org](https://loa2k.neocities.org/) - music player from someone
+- [awesome-open-company](https://github.com/opencompany/awesome-open-company) - start to open a website for like webamp
 
 ## Thanks
 
